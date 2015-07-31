@@ -1,0 +1,24 @@
+{
+  "name": "@weo-edu/sleep",
+  "version": "0.1.0",
+  "description": "Equivalent to setTimeout, except returns a promise.  For use with generator-based async flow control libraries such as co.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/weo-edu/sleep"
+  },
+  "keywords": [
+    "sleep",
+    "generator",
+    "setTimeout"
+  ],
+  "author": "ashaffer (http://github.com/ashaffer)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/weo-edu/sleep/issues"
+  },
+  "homepage": "https://github.com/weo-edu/sleep"
+}
