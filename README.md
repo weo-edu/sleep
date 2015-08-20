@@ -4,9 +4,9 @@ Sleep is a simple library that emulates the behavior of `sleep(n)` in synchronou
 
 ## Usage
 
-`sleep(n)`:
+`sleep(ms)`:
 
-  * `n` - time to wait, in milliseconds
+  * `ms` - time to wait, in milliseconds
 
 Returns a promise.
 
