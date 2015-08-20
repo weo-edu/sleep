@@ -1,6 +1,6 @@
 # sleep
 
-Sleep is a simple library that emulates the behavior of `sleep(n)` in synchronous languages, using generators or promises.  You can use it on its own with promises, but it's designed to be used with a generator based flow control library such as tj/co.
+Sleep is a simple library that emulates the behavior of `sleep(n)` in synchronous languages, using generators or promises.  You can use it on its own with promises, but it's designed to be used with a generator based flow control library such as [tj/co](https://github.com/tj/co).
 
 ## Usage
 
